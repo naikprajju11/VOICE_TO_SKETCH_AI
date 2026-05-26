@@ -1,1 +1,0 @@
-# VOICE_TO_SKETCH_AI
